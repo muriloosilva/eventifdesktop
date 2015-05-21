@@ -8,7 +8,7 @@ public class Principal {
 	
 	public static void message(){
 		System.out.println("Ola Mundo!");
-		System.out.println("Teste");
+		
 	}
 
 }
